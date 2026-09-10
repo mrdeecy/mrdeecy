@@ -1,12 +1,10 @@
-# Emmanuel Quarshie
+# Hi, Welcome
 
-## AI/GTM Engineer | Business Development Professional
+## I'm Emmanuel Quarshie
 
-I build practical AI systems that turn go-to-market problems into measurable workflows, combining technical fluency with hands-on experience across the full sales cycle.
+I build practical AI systems that turn go-to-market problems into measurable workflows, combining technical fluency with hands-on experience across the full sales cycle. This makes me an AI/GTM Engineer where I help early-stage teams reach their ideal clients.
 
 My work sits at the intersection of **AI engineering, revenue operations, and consultative selling**. I design systems that help teams research markets, understand customers, automate outreach, and make better decisions with data.
-
-I am especially interested in helping early-stage teams translate technical capability into customer value, revenue, and repeatable operating systems.
 
 
 ## What I work on
@@ -35,10 +33,6 @@ An analysis of Ghana's and Africa's readiness for the AI era across digital infr
 **AI and Data:** RAG, LLM applications, OpenAI, Pinecone, LangChain, RAGAS, Pandas<br>
 **Backend and Deployment:** FastAPI, Streamlit, PostgreSQL, Docker, Vercel<br>
 **GTM and Automation:** Lead enrichment, CRM workflows, outbound automation, APIs, structured prompts
-
-## Current Direction
-
-I am focused on building reliable AI systems that connect technical capability to real business outcomes, especially in go-to-market execution, customer intelligence, and the growth of AI across Africa. 
 
 ## Connect
 
